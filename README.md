@@ -7,7 +7,7 @@ Um formulário desenvolvido em HTML/CSS para a venda de automóveis. Inspirado n
 - ``HTML``
 - ``CSS``
 
-** Para acessar o projeto basta clicar <a href="https://formulario-sigma.vercel.app/">aqui</a>. **
+**Para acessar o projeto basta clicar <a href="https://formulario-sigma.vercel.app/">aqui</a>.**
 
 ## Conecte-se comigo:
 
